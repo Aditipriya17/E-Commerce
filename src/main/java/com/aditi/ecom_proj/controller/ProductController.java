@@ -1,7 +1,7 @@
 package com.aditi.ecom_proj.controller;
 
-import com.telusko.ecom_proj.model.Product;
-import com.telusko.ecom_proj.service.ProductService;
+import com.aditi.ecom_proj.model.Product;
+import com.aditi.ecom_proj.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
